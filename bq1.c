@@ -1,3 +1,4 @@
+//#define CFGFILE neslib2.cfg
 
 #include <stdlib.h>
 #include <string.h>
